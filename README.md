@@ -1,8 +1,8 @@
 # Project: Applications of Functional Analysis in Economics, Finance, and Machine Learning
 
-**Course:** *MA2212: Functional Analysis /
-**Institution:** Mahindra University /
-**Award:** Best Project, CAM Symposium 2025 /
+**Course:** *MA2212: Functional Analysis/
+**Institution:** Mahindra University/
+**Award:** Best Project, CAM Symposium 2025/
 
 **[>> View the Full Project Report (PDF) <<](report.pdf)**
 
@@ -52,4 +52,5 @@ This project demonstrates the relevance of Functional Analysis in a variety of a
 * Luenberger, D. G. (1997). *Optimization by Vector Space Methods*. Wiley.
 * Bertsekas, D. P. (1999). *Nonlinear Programming*. Athena Scientific.
 * Kreyszig, E. (1989). *Introductory Functional Analysis with Applications*. Wiley.
+
 * Mohri, M., Rostamizadeh, A., & Talwalkar, A. (2018). *Foundations of Machine Learning*. MIT Press.
